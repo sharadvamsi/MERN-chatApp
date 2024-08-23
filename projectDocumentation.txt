@@ -1,0 +1,4 @@
+--->First we intialized client with vite.
+--->Created npm init -y in root directory
+--->we are using routes folder for routing by using app.use()
+--->writing logic for every route in routes would be messy. so we use controllers for logic.
